@@ -2,6 +2,23 @@
 
 Implementation of a framework for <a href="https://gamengen.github.io/">Gamengen</a> in Pytorch
 
+## Steps
+1. Train Agent Play
+2. Collect Data
+3. Train Stable Diffusion
+
+#### 1. Train Agent Play
+
+Resources:
+- Doom RL Tutorial [Medium Article](https://lkieliger.medium.com/deep-reinforcement-learning-in-practice-by-playing-doom-part-1-getting-started-618c99075c77) by [Leandro Kieliger](https://lkieliger.medium.com/?source=post_page-----618c99075c77--------------------------------)
+- Doom RL Tutorial [Notebook](https://nbviewer.org/github/lkiel/rl-doom/blob/develop/standalone_examples/Basic%20Scenario.ipynb)
+- [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/index.html)
+- [VizDoom](https://github.com/mwydmuch/ViZDoom)
+
+#### 2. Collect Data
+
+#### 3. Train Stable Diffusion
+
 ## Citations
 
 ```bibtex
