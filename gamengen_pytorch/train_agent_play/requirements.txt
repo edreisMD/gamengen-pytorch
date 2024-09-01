@@ -1,5 +1,7 @@
-stable-baselines3==0.10.0 
-vizdoom==1.1.8 
-torch==1.9.0 
-gym==0.17.3 
-tensorboard==2.4.0
+stable-baselines3
+vizdoom
+torch
+gym
+tensorboard
+opencv-python
+shimmy

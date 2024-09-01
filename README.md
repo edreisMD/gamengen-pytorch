@@ -9,11 +9,7 @@ Implementation of a framework for <a href="https://gamengen.github.io/">Gamengen
 
 #### 1. Train Agent Play
 
-```bash
-cd gamengen_pytorch/train_agent_play
-pip install -r requirements.txt
-python train_agent_play.py
-```
+Please refer to the [README](./train_agent_play/README.md) on train_agent_play folder for more details.
 
 References:
 - Doom RL Tutorial [Medium Article](https://lkieliger.medium.com/deep-reinforcement-learning-in-practice-by-playing-doom-part-1-getting-started-618c99075c77) by [Leandro Kieliger](https://lkieliger.medium.com/?source=post_page-----618c99075c77--------------------------------)
